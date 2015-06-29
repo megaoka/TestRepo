@@ -1,7 +1,6 @@
 START
 
-//changing some stuff
-//do mind me
+//nothing to see here
 
 @ECHO ON
 
