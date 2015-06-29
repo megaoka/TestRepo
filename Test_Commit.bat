@@ -1,8 +1,8 @@
 START
 
-//adding some stuff
-//don't mind me
+//changing some stuff
+//do mind me
 
-@ECHO OFF
+@ECHO ON
 
 END
